@@ -1,0 +1,16 @@
+org\example\exception\GlobalExceptionHandler.class
+org\example\model\WeatherData$Wind.class
+org\example\controller\PingController.class
+org\example\Application.class
+org\example\model\WeatherData$rain.class
+org\example\model\WeatherData.class
+org\example\model\WeatherData$Weather.class
+org\example\config\AppConfig.class
+org\example\controller\WeatherController.class
+org\example\service\WeatherService.class
+org\example\config\DynamoDBConfig.class
+org\example\StreamLambdaHandler.class
+org\example\model\WeatherData$Main.class
+org\example\model\WeatherData$Coord.class
+org\example\model\WeatherData$Clouds.class
+org\example\model\WeatherData$Sys.class
